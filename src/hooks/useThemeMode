@@ -1,0 +1,27 @@
+import { createTheme } from "@mui/material/styles";
+import { useState, useMemo } from "react";
+import themeSettings from "../theme";
+/**
+ * A custom React hook that manages the theme mode (light or dark) and provides
+ * a method to toggle between the two modes. It returns the current theme settings
+ * and a function to toggle the theme mode.
+ *
+ * @returns {Object} An object containing:
+ *  - {Theme} theme: The current Material-UI theme object based on the selected mode (light or dark).
+ *  - {Object} colorMode: An object containing the `toggleThemeMode` method to switch between light and dark themes.
+ */
+
+export const useThemeMode = () => {
+  const [mode, setMode] = useState("light"); // state for maintaining the mode
+
+  const themeMode = useMemo(() => {
+    return {
+      toggleThemeMode: () =>
+        setMode((prev) => (prev === "light" ? "dark" : "light")),
+    };
+  }, []);
+
+  const theme = useMemo(() => createTheme(themeSettings(mode)), [mode]);
+
+  return [theme, themeMode];
+};
