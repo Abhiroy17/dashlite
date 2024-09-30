@@ -92,7 +92,6 @@ const Dashboard = () => {
             flexBasis: "272px",
             minWidth: "200px",
             maxWidth: "272px",
-            border: "3px solid pink",
           }}
         >
           <TotalSales />

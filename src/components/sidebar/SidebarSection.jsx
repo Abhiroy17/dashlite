@@ -24,7 +24,6 @@ const SidebarSection = ({ title, items, open, toggleSection }) => {
         gap: "4px",
         paddingBottom: "12px",
         width: "180px",
-        border: "1px solid black",
       }}
     >
       <Typography
