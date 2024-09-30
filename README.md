@@ -3,7 +3,7 @@
 ## 🌐 Live Demo
 *A powerful dashboard tool.*
 
-Check out the live version of DashLite: [[https://visualizeworkflow.netlify.app/](https://dashlite.netlify.app/)]([https://visualizeworkflow.netlify.app/](https://dashlite.netlify.app/)) (Beta)
+Check out the live version of DashLite: [[(https://dashlite.netlify.app/)](https://dashlite.netlify.app/)] (Beta)
 
 
  
