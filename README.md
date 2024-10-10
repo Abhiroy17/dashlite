@@ -25,7 +25,7 @@ Check out the live version of DashLite: [**DashLite (Beta)**](https://dashlite.n
 
 - **Clean ui**: 
 
-- **Scalable Design system**: Enjoy a clean, user-friendly interface that’s fully customizable and reusable. The UI is designed using compound design principles, ensuring flexibility and consistency across your workflows.
+- **Scalable & Reusable Design system**
 
 ---
 
