@@ -13,7 +13,8 @@ Check out the live version of DashLite: [**DashLite (Beta)**](https://dashlite.n
 
 ### Charts made using Recharts
 
-![image](https://github.com/user-attachments/assets/15410280-1445-4d41-90c5-3ebe4c7a9497)
+![image](https://github.com/user-attachments/assets/15410280-1445-4d41-90c5-3ebe4c7a9497) ![image](https://github.com/user-attachments/assets/bb2c70ba-8337-4e3b-b9bb-d9f9b7e569ea)
+
 
 ---
 ## 🌟 Features
