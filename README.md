@@ -4,6 +4,8 @@
 **A powerful dashboard tool.**
 
 Check out the live version of DashLite: [**DashLite (Beta)**](https://dashlite.netlify.app/)
+![image](https://github.com/user-attachments/assets/57622e50-fb17-4303-93e0-dd36d0cb099e)
+
 
 ---
 
